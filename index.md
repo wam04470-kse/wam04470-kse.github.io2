@@ -11,3 +11,6 @@ Ok. That is all.
 * Anton hates music
 * Anton loves climbing
 
+As Anton Anton said:
+> I’ve always been more interested
+> in the future than in the past.
